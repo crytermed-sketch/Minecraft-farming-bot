@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "minecraft-farming-bot",
+  "version": "0.1.0",
+  "name": "Minecraft Farming Bot",
+  "description": "Client-side Fabric mod automating farming by #farm / #farmstop (wheat, carrots, potatoes, beetroot, melon).",
+  "authors": ["crytermed-sketch"],
+  "environment": "client",
+  "license": "MIT",
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "fabric": "*",
+    "minecraft": "1.21.4"
+  }
+}
